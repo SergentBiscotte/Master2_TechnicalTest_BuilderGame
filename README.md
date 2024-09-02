@@ -58,7 +58,7 @@ Potential Improvements / Additional Features:
 
 
 
-===========================================================================================================================================================================================================
+
 
 ### READ ME (VERSION FRANCAISE)
 
@@ -66,9 +66,8 @@ Potential Improvements / Additional Features:
 
 Developed with Unreal Engine 5
 
-======================================================
+
 READ ME DU TEST TECHNIQUE M2
-======================================================
 SUJET SÉLÉCTIONNÉ : Outil de construction de bâtiment
 ======================================================
 
@@ -94,9 +93,9 @@ A NOTER: La couleur est choisie entre 4 matériaux différents.
 
 - Quitter le jeu: Echape (ESC)
 
-=================================================================================================================
-Informations en plus:
 
+Informations en plus:
+===========
 - Lorsqu'un bloc est posable, le bloc choisi dans le mode de construction s'allume en vert sinon il devient rouge.
 
 - Il est impossible de poser un bloc en l'air sans qu'un autre bloc adjacent ne se trouve en dessous de lui.
@@ -113,9 +112,9 @@ Informations en plus:
 
 - La destruction des blocs (Touche X) et le changement de couleur aléatoire des blocs (Touche C) se fait dans le même rayon que celui pour poser les blocs.
 
-=========================================================================================================================================================================================================
-Angle d'amélioration possible / Fonctionnalité ajoutable :
 
+Angle d'amélioration possible / Fonctionnalité ajoutable :
+=
 - Séléction des blocs dans le mode de construction via une UI servant de menu de séléction de bloc
 - Pouvoir bouger ailleurs un bloc posé sans avoir à le supprimer
 - Changer la couleur des blocs manuellement (outil "pinceau")

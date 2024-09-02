@@ -1,5 +1,4 @@
 # READ ME (ENGLISH VERSION)
-# FRENCH VERSION BELOW
 
 ## 2nd year Master's Technical Test Project
 Developed with Unreal Engine 5

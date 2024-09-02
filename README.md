@@ -1,6 +1,6 @@
-### READ ME (ENGLISH VERSION)
+# READ ME (ENGLISH VERSION)
 
-# 2nd year Master's Technical Test Project
+## 2nd year Master's Technical Test Project
 Developed with Unreal Engine 5
 
 
@@ -60,9 +60,9 @@ Potential Improvements / Additional Features:
 
 
 
-### READ ME (VERSION FRANCAISE)
+# READ ME (VERSION FRANCAISE)
 
-# Projet_M2TestTech
+## Projet_M2TestTech
 
 Developed with Unreal Engine 5
 

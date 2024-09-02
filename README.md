@@ -3,7 +3,7 @@
 # 2nd year Master's Technical Test Project
 Developed with Unreal Engine 5
 
-============================================================
+
 2nd year Master's TECHNICAL TEST README
 SELECTED TOPIC: Construction Tool
 ============================================================
@@ -29,8 +29,7 @@ NOTE: There are 3 available blocks: a cube, a floor, and a wall!
 NOTE: The color is chosen from 4 different materials.
 
 - Quit the game: Escape (ESC)
-
-=================================== 
+ 
 Additional Informations:
 ===================================
 
@@ -48,7 +47,7 @@ Additional Informations:
 
 - The destruction of blocks (X key) and the random color change of blocks (C key) operate within the same radius as placing blocks.
 
-================================================================
+
 Potential Improvements / Additional Features:
 ================================================================
 - Selection of blocks in construction mode via a UI serving as a block selection menu
@@ -58,7 +57,7 @@ Potential Improvements / Additional Features:
 - Improve the collision boxes of static meshes to ensure consistency when snapping blocks together
 
 
-===========================================================================================================================================================================================================
+
 ===========================================================================================================================================================================================================
 
 ### READ ME (VERSION FRANCAISE)

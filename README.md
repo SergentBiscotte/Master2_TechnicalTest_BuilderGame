@@ -56,8 +56,8 @@ Potential Improvements / Additional Features:
 - Add more blocks to increase creation possibilities
 - Improve the collision boxes of static meshes to ensure consistency when snapping blocks together
 
-
-
+======================================================================================================
+=
 
 # READ ME (VERSION FRANCAISE)
 
